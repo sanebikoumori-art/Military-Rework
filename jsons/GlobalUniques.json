@@ -1,6 +1,6 @@
 {
     "name": "Global Uniques",
     "uniques": [
-        "Consumes [1] [Manpower] <for [Worker] units>",
+        "Provides [-1] [Manpower] <upon gaining a [Worker] unit>",
     ]
 }
