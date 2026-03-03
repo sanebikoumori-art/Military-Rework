@@ -3,11 +3,12 @@
     "uniques": [
         //manpower and some value check.
         "Instantly provides [50] [War Support]",
-        "Provides [1] [War Support] <when at war> <when number of [War Support] is less than [100]>",
+        "Provides [2] [War Support] <when at war> <when number of [War Support] is less than [100]>",
         "Provides [-1] [War Support] <when not at war> <when number of [War Support] is more than [0]>",
         "Provides [-1] [War Support] <when below [0] [Happiness]> <when at war> <when number of [War Support] is more than [0]>",
         "Provides [-1] [War Support] <when below [-10] [Happiness]> <when at war> <when number of [War Support] is more than [0]>",
         "Provides [1] [War Support] <when above [10] [Happiness]> <when at war> <when number of [War Support] is more than [0]>",
+        "Provides [-1] [War Support] <when number of [Total Death] is more than [10000]>",
         //zero以下にならない
         "Instantly provides [1] [War Support] <for every [-[War Support]]> <when number of [War Support] is less than [0]>",
         "Instantly consumes [1] [War Support] <for every [[War Support]-100]> <when number of [War Support] is more than [100]>",
