@@ -28,15 +28,6 @@
             "Not shown on world screen <before turn number [4]>"
         ]
     },
-    {
-		"name": "Manpower(Trained)",
-		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled <hidden from users>",
-			"Excluded from map editor"
-            //Not shown on world screen <hidden from users>
-        ]
-    },
     //Weapon and Others
     {
         "name": "Goods",
