@@ -5,7 +5,161 @@
 	},
     //initializer
     {
-		"name": "Const Test",
- 		"uniques": ["Instantly consumes [100] [Manpower]","[This Unit] loses the [Const Test] promotion"]
+		"name": "Const Global",
+ 		"uniques": ["[This Unit] loses the [Const Global] promotion"]
+	},
+	// Warrior path
+	{
+		"name": "Const Warrior",
+ 		"uniques": [
+			"Instantly consumes [15] [Manpower]",
+			"[This Unit] loses the [Const Warrior] promotion",
+		]
+	},
+	{
+		"name": "Const Swordsman",
+ 		"uniques": [
+			"Instantly consumes [25] [Manpower]",
+			"Instantly consumes [25] [Sword]",
+			"[This Unit] loses the [Const Swordsman] promotion",
+		]
+	},
+	{
+		"name": "Const Longswordsman",
+ 		"uniques": [
+			"Instantly consumes [50] [Manpower]",
+			"Instantly consumes [50] [Sword]",
+			"[This Unit] loses the [Const Longswordsman] promotion",
+		]
+	},
+	{
+		"name": "Const Musketman",
+ 		"uniques": [
+			"Instantly consumes [75] [Manpower]",
+			"Instantly consumes [75] [Musket]",
+			"[This Unit] loses the [Const Musketman] promotion",
+		]
+	},
+	{
+		"name": "Const Rifleman",
+ 		"uniques": [
+			"Instantly consumes [100] [Manpower]",
+			"Instantly consumes [100] [Rifle]",
+			"[This Unit] loses the [Const Musketman] promotion",
+		]
+	},
+	{
+		"name": "Const Great War Infantry",
+ 		"uniques": [
+			"Instantly consumes [150] [Manpower]",
+			"Instantly consumes [120] [Rifle]",
+			"Instantly consumes [10] [Machine Gun]",
+			"Instantly consumes [25] [Infantry Equipment]",
+			"[This Unit] loses the [Const Great War Infantry] promotion",
+		]
+	},
+	{
+		"name": "Const Infantry",
+ 		"uniques": [
+			"Instantly consumes [150] [Manpower]",
+			"Instantly consumes [150] [Gun]",
+			"Instantly consumes [50] [Infantry Equipment]",
+			"[This Unit] loses the [Const Infantry] promotion",
+		]
+	},
+	//spear path
+	{
+		"name": "Const Spearman",
+ 		"uniques": [
+			"Instantly consumes [25] [Manpower]",
+			"Instantly consumes [25] [Spear]",
+			"[This Unit] loses the [Const Spearman] promotion",
+		]
+	},
+	{
+		"name": "Const Pikeman",
+ 		"uniques": [
+			"Instantly consumes [50] [Manpower]",
+			"Instantly consumes [50] [Spear]",
+			"[This Unit] loses the [Const Pikeman] promotion",
+		]
+	},
+	{
+		"name": "Const Lancer",
+ 		"uniques": [
+			"Instantly consumes [75] [Manpower]",
+			"Instantly consumes [75] [Spear]",
+			"[This Unit] loses the [Const Lancer] promotion",
+		]
+	},
+	{
+		"name": "Const Anti-Tank Gun",
+ 		"uniques": [
+			"Instantly consumes [40] [Manpower]",
+			"Instantly consumes [10] [Artillery]",
+			"Instantly consumes [10] [Infantry Equipment]",
+			"[This Unit] loses the [Const Anti-Tank Gun] promotion",
+		]
+	},
+	{
+		"name": "Const Gunship",
+ 		"uniques": [
+			"Instantly consumes [100] [Manpower]",
+			"Instantly consumes [50] [Machine Gun]",
+			"[This Unit] loses the [Const Gunship] promotion",
+		]
+	},
+	//Archear path
+	{
+		"name": "Const Archer",
+ 		"uniques": [
+			"Instantly consumes [10] [Manpower]",
+			"Instantly consumes [10] [Bow]",
+			"[This Unit] loses the [Const Archer] promotion",
+		]
+	},
+	{
+		"name": "Const Composite Bowman",
+ 		"uniques": [
+			"Instantly consumes [25] [Manpower]",
+			"Instantly consumes [25] [Bow]",
+			"[This Unit] loses the [Const Composite Bowman] promotion",
+		]
+	},
+	{
+		"name": "Const Crossbowman",
+ 		"uniques": [
+			"Instantly consumes [50] [Manpower]",
+			"Instantly consumes [50] [Bow]",
+			"[This Unit] loses the [Const Crossbowman] promotion",
+		]
+	},
+	{
+		"name": "Const Gatling Gun",
+ 		"uniques": [
+			"Instantly consumes [10] [Manpower]",
+			"Instantly consumes [10] [Machine Gun]",
+			"[This Unit] loses the [Const Gatling Gun] promotion",
+		]
+	},
+	{
+		"name": "Const Machine Gun",
+ 		"uniques": [
+			"Instantly consumes [75] [Manpower]",
+			"Instantly consumes [25] [Infantry Equipment]",
+			"Instantly consumes [75] [Machine Gun]",
+			"[This Unit] loses the [Const Machine Gun] promotion",
+		]
+	},
+	{
+		"name": "Const Mechanized Infantry",
+ 		"uniques": [
+			"Instantly consumes [150] [Manpower]",
+			"Instantly consumes [50] [Infantry Equipment]",
+			"Instantly consumes [15] [Armored Car]",
+			"Instantly consumes [15] [Machine Gun]",
+			"Instantly consumes [120] [Gun]",
+			"[This Unit] loses the [Const Mechanized Infantry] promotion",
+		]
 	}
 ]
