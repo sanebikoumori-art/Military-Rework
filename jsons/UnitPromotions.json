@@ -1,0 +1,11 @@
+[
+    {
+		"name": "Daily Consumption",
+ 		"uniques": ["Consumes 1 Supply"]
+	},
+    //initializer
+    {
+		"name": "Const Test",
+ 		"uniques": ["Instantly consumes [100] [Manpower]","[This Unit] loses the [Const Test] status"]
+	}
+]
