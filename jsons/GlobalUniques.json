@@ -16,7 +16,8 @@
         "Provides [1] [Commands] <when at war>",
         //Main
         "[Land] units gain the [Daily Consumption] promotion",
-        "[Warrior] units gain the [Consumption on Action(Warrior)] promotion",
-        "[Military] units gain the [Const Test] promotion",
+        "[Warrior] units gain the [Consumption on Action Warrior] promotion",
+        "[Archer] units gain the [Consumption on Action Archer] promotion",
+        "[Archer] units gain the [Const Archer] promotion",
     ]
 }
