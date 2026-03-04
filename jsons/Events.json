@@ -22,7 +22,7 @@
         ],
         "choices": [
 			{
-				"text": "The enemy will surely fall before a fortress made of our blood"
+				"text": "The enemy will surely fall before a fortress made of our blood",
 			},
 			{
 				"text": "I'll make sure they pay",
@@ -37,11 +37,36 @@
         ],
         "choices": [
 			{
-				"text": "We will fight to the last drop of blood!"
+				"text": "We will fight to the last drop of blood!",
+				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
 			},
 			{
 				"text": "It's just a statistical number",
+				"uniques":["Triggers the following global alert: [Casualties reached 1000]"]
 			}
         ]
     },
+	{
+        "name":"Mobilization",
+		"civilopediaText":[
+            {"text":"Mobilization", "centered":true, "header":2,"color": "#FB6B94"},
+        ],
+        "choices": [
+			{
+				"text": "Civil Economy"
+			},
+			{
+				"text": "Early Mobilization",
+				"uniques":["Triggers the following global alert: [Begin Mobilization]"]
+			},
+			{
+				"text": "War Economy",
+				"uniques":["Triggers the following global alert: [Begin Mobilization]"]
+			},
+			{
+				"text": "Full Mobilization",
+				"uniques":["Triggers the following global alert: [National Mobilization Law adopted]"]
+			}
+        ]
+    }
 ]
