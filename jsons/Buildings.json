@@ -153,5 +153,60 @@
         ]
     },
 	//Bullets
-	
+	{
+        "name":"Expand Bullet Factory",
+        "requiredTech":"Metallurgy",
+		"requiredBuilding":"Factory",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Bullet Factory] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Bullet Produce] <for every [1] [Production]>",
+			"Unsellable",
+            "Remove [Expand Bullet Factory] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Bullet(Large) Factory",
+        "requiredTech":"Metallurgy",
+		"requiredBuilding":"Factory",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Bullet(Large) Factory] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Bullet(Large) Produce] <for every [5] [Production]>",
+			"Unsellable",
+            "Remove [Expand Bullet(Large) Factory] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Ball Bullet Workshop",
+        "requiredTech":"Gunpowder",
+		"requiredBuilding":"Workshop",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Ball Bullet Workshop] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Ball Bullet Produce] <for every [1] [Production]>",
+			"Unsellable",
+            "Remove [Expand Ball Bullet Workshop] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Ball Bullet(Large) Workshop",
+        "requiredTech":"Gunpowder",
+		"requiredBuilding":"Workshop",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"[-10]% Production when constructing [Expand Ball Bullet(Large) Workshop] buildings [in this city] <for [50] turns>",
+			"Instantly provides [1] [Ball Bullet(Large) Produce] <for every [4] [Production]>",
+			"Unsellable",
+            "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
+        ]
+    },
 ]
