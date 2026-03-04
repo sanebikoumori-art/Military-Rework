@@ -98,6 +98,15 @@
 			//"Not shown on world screen"
         ]
     },
+	{
+		"name": "Musket",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
     {
 		"name": "Rifle",
 		"resourceType": "Strategic",
@@ -118,6 +127,141 @@
 	},
 	{
 		"name": "Gun",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Machine Gun",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Artillery",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Armored Car",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Catapult",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Trebuchet",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Cannon",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Rocket Artillery",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Tank",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Giant Death Robot",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Triplane",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Fighter",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Bomber",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Jet Fighter",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Stealth Bomber",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Mobile SAM",
 		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled <hidden from users>",
