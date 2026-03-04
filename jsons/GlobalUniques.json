@@ -1,7 +1,7 @@
 {
     "name": "Global Uniques",
     "uniques": [
-        "Triggers a [event] event",
+        "Triggers a [Local News:War1] event",
         //Total Death
         "Instantry consumes [1] [Total Death] <for every [Total Death]> <when not at war>",
         //マンパワーは都市でMobilizationやRecruitを行うと増える
