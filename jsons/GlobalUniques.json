@@ -3,7 +3,7 @@
     "uniques": [
         "Triggers a [Local News:War1] event",
         //Total Death
-        "Instantry consumes [1] [Total Death] <for every [Total Death]> <when not at war>",
+        "Instantly consumes [1] [Total Death] <for every [Total Death]> <when not at war>",
         //マンパワーは都市でMobilizationやRecruitを行うと増える
         //manpower and some value check.
         "Instantly provides [50] [War Support]",
