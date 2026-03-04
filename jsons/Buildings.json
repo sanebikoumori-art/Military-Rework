@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Military Rework",
+        "cost":1,
+        "uniques":[
+			"Unbuildable",
+			"Unsellable",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name":"Praetorium",
+        "requiredTech": "Construction",
+        "maintenance": 1,
+        "uniques":[
+            "Provides [1] [Commands]",
+            "Provides [1] [Military Science] <for every [2] [[Science] Per Turn]>"
+        ]
+    },
+    {
+        "name":"Headquarters",
+        "requiredBuilding": "Praetorium",
+        "requiredTech": "Chivalry",
+        "maintenance": 2,
+        "uniques":[
+            "Provides [2] [Commands]",
+            "Provides [1] [Military Science] <for every [2] [[Science] Per Turn]>"
+        ]
+    },
+    {
+        "name":"Staff Office",
+        "cost": 200,
+        "requiredTech": "Military Science",
+        "science":2,
+        "isNationalWonder": true,
+        "uniques":[
+            "Only available <if [Headquarters] is constructed in all [non-[Puppeted]] cities>",
+            "Provides [8] [Commands]",
+            "Provides [10] [Military Science]",
+            "Cost increases by [30] per owned city"
+        ]
+    },
+    //指令
+    {
+        "name":"Change Mobilization Level",
+        "cost":1,
+        "uniques":[
+            "Consumes [50] [Commands]","Instantly consumes [50] [Commands]<hidden from users>",
+            "Remove [Change Mobilization Level] [in this city] <hidden from users>",
+            "Triggers a [Mobilization] event"
+        ]
+    }
+]
