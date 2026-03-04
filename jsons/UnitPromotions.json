@@ -533,11 +533,15 @@
 },
 {
 "name":"Consumption on Action Triplane",
-"uniques":["Instantly provides [10] [Total Death] <upon being defeated>","Instantly consumes [1] [Triplane] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Triplane] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [100] [Bullet] <when attacking>","Instantly consumes [50] [Bullet] <when defending>",
+	"Instantly provides [10] [Total Death] <upon being defeated>","Instantly consumes [1] [Triplane] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Triplane] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Fighter",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Fighter] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Fighter] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [1000] [Bullet] <when attacking>","Instantly consumes [500] [Bullet] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Fighter] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Fighter] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Bomber",
@@ -545,7 +549,9 @@
 },
 {
 "name":"Consumption on Action Jet Fighter",
-"uniques":["Instantly provides [20] [Total Death] <upon being defeated>","Instantly consumes [2] [Jet Fighter] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Jet Fighter] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [3000] [Bullet] <when attacking>","Instantly consumes [1500] [Bullet] <when defending>",
+	"Instantly provides [20] [Total Death] <upon being defeated>","Instantly consumes [2] [Jet Fighter] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Jet Fighter] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Stealth Bomber",
@@ -557,18 +563,26 @@
 },
 {
 "name":"Consumption on Action Marine",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Gun] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Gun] is less than [0]>","Instantly consumes [10] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [500] [Bullet] <when attacking>","Instantly consumes [250] [Bullet] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Gun] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Gun] is less than [0]>","Instantly consumes [10] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Paratrooper",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Gun] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Gun] is less than [0]>","Instantly consumes [10] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [500] [Bullet] <when attacking>","Instantly consumes [250] [Bullet] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Gun] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Gun] is less than [0]>","Instantly consumes [10] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Anti-Aircraft Gun",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-72]% Strength <when number of [Machine Gun] is less than [0]>","Instantly consumes [4] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-29]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [3000] [Bullet] <when attacking>","Instantly consumes [1500] [Bullet] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-72]% Strength <when number of [Machine Gun] is less than [0]>","Instantly consumes [4] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-29]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Mobile SAM",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Mobile SAM] <upon losing at least [5] HP in a single attack>","[-67]% Strength <when number of [Mobile SAM] is less than [0]>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-34]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Missile] is less than [1]>",
+	"Instantly consumes [100] [Missile] <when attacking>","Instantly consumes [50] [Missile] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Mobile SAM] <upon losing at least [5] HP in a single attack>","[-67]% Strength <when number of [Mobile SAM] is less than [0]>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-34]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 ]
