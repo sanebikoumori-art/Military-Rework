@@ -184,6 +184,7 @@
         "requiredTech":"Archery",
 		"cost":50,
         "uniques":[
+			"Only available <before discovering [Industrialization]>",
 			"War plant",
 			"Cannot be purchased",
 			"[-10]% Production when constructing [Expand Arrow Production] buildings [in this city] <for [50] turns>",
@@ -227,6 +228,7 @@
 		"cost":50,
         "uniques":[
 			"War plant",
+			"Only available <before discovering [Rifling]>",
 			"Cannot be purchased",
 			"[-10]% Production when constructing [Expand Ball Bullet Workshop] buildings [in this city] <for [50] turns>",
 			"Instantly provides [1] [Ball Bullet Produce] <for every [1] [Production]>",
@@ -241,6 +243,7 @@
 		"cost":50,
         "uniques":[
 			"War plant",
+			"Only available <before discovering [Dynamite]>",
 			"Cannot be purchased",
 			"[-10]% Production when constructing [Expand Ball Bullet(Large) Workshop] buildings [in this city] <for [50] turns>",
 			"Instantly provides [1] [Ball Bullet(Large) Produce] <for every [4] [Production]>",
