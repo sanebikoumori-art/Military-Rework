@@ -5,6 +5,7 @@
         "uniques":[
 			"Unbuildable",
 			"Unsellable",
+			"Provides [1] [Goods] <for every [Production]>",
             "Will not be displayed in Civilopedia"
         ]
     },
