@@ -115,6 +115,60 @@
 			"Excluded from map editor",
 			//"Not shown on world screen"
         ]
-    }
+    },
 	//bullets
+	{
+		"name": "Arrow",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Ball Bullet",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Ball Ballet(Large)",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Ballet",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Ballet(Large)",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    },
+	{
+		"name": "Missile",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			//"Not shown on world screen"
+        ]
+    }
 ]
