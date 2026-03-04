@@ -3,7 +3,10 @@
     "uniques": [
         "Gain a free [Military Rework] [in all cities]",
         //Total Death
-        "Instantly consumes [1] [Total Death] <for every [Total Death]> <when not at war>",
+        "Set [Total Death] to [0] <when not at war> <upon turn start>",
+        "Set [EventKey War1] to [0] <when not at war> <upon turn start>",
+        "Set [EventKey War2] to [0] <when not at war> <upon turn start>",
+        "Set [EventKey War3] to [0] <when not at war> <upon turn start>",
         //マンパワーは都市でMobilizationやRecruitを行うと増える
         //manpower and some value check.
         "Instantly provides [50] [War Support]",
@@ -14,8 +17,8 @@
         "Provides [1] [War Support] <when above [10] [Happiness]> <when at war> <when number of [War Support] is more than [0]>",
         "Provides [-1] [War Support] <when number of [Total Death] is more than [10000]>",
         //zero以下にならない
-        "Instantly provides [1] [War Support] <for every [-[War Support]]> <when number of [War Support] is less than [0]>",
-        "Instantly consumes [1] [War Support] <for every [[War Support]-100]> <when number of [War Support] is more than [100]>",
+        "Set [War Support] to [0] <upon turn start> <when number of [War Support] is less than [0]>",
+        "Set [War Support] to [100] <upon turn start> <when number of [War Support] is more than [100]>",
         //Commands
         "Provides [1] [Commands] <when not at war>",
         "Provides [1] [Commands] <when at war>",
