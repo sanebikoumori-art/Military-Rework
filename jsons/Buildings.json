@@ -79,10 +79,10 @@
         "cost":30,
         "uniques":[
 			"Unsellable",
-			"Provides [1] [Manpower] <for every [[Food]*[War Support]/100]>",
+			"Provides [1] [Manpower] <for every [[Food]/10+[War Support]/10]>",
 			"Only available <when number of [Commands] is more than [9]>",
 			"Instantly consumes [10] [Commands]",
-            "Remove [Expand Conscription] [in this city] <for every [5] [turns]>"
+            "Remove [Recruiting Campaign] [in this city] <for every [25] [turns]>"
         ]
     },
 	{
@@ -91,10 +91,10 @@
         "uniques":[
 			"Only available <if [Conscription for 20 turns] is not constructed>",
 			"Unsellable",
-			"Provides [3] [Manpower] <for every [Food]>",
+			"Provides [1] [Manpower] <for every [Food]>",
 			"Only available <when number of [Commands] is more than [14]>",
 			"Instantly consumes [15] [Commands]",
-            "Remove [Expand Conscription] [in this city] <for every [10] [turns]>"
+            "Remove [Conscription for 10 turns] [in this city] <for every [10] [turns]>"
         ]
     },
 	{
@@ -103,10 +103,10 @@
         "uniques":[
 			"Only available <if [Conscription for 10 turns] is not constructed>",
 			"Unsellable",
-			"Provides [3] [Manpower] <for every [Food]>",
+			"Provides [1] [Manpower] <for every [Food]>",
 			"Only available <when number of [Commands] is more than [29]>",
 			"Instantly consumes [30] [Commands]",
-            "Remove [Expand Conscription] [in this city] <for every [20] [turns]>"
+            "Remove [Conscription for 20 turns] [in this city] <for every [20] [turns]>"
         ]
     },
 ]
