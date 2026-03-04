@@ -18,6 +18,15 @@
 			"Will not be displayed in Civilopedia <hidden from users>" //Not shown on world screen <hidden from users>
         ]
     },
+	{
+		"name": "Militaly Research",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia <hidden from users>" //Not shown on world screen <hidden from users>
+        ]
+    },
     //Global Resources
     {
 		"name": "Manpower",
