@@ -19,28 +19,6 @@
         //Commands
         "Provides [1] [Commands] <when not at war>",
         "Provides [1] [Commands] <when at war>",
-        //Main
-        "[Land] units gain the [Daily Consumption] promotion",
-        "[Warrior] units gain the [Consumption on Action Warrior] promotion",
-        "[Archer] units gain the [Consumption on Action Archer] promotion",
-        //const type
-        "[Warrior] units gain the [Const Warrior] promotion",
-        "[Swordsman] units gain the [Const Swordsman] promotion",
-        "[Longswordsman] units gain the [Const Longswordsman] promotion",
-        "[Musketman] units gain the [Const Musketman] promotion",
-        "[Rifleman] units gain the [Const Rifleman] promotion",
-        "[Great War Infantry] units gain the [Const Great War Infantry] promotion",
-        "[Infantry] units gain the [Const Infantry] promotion",
-        "[Mechanized Infantry] units gain the [Const Mechanized Infantry] promotion",
-        "[Archer] units gain the [Const Archer] promotion",
-        "[Composite Bowman] units gain the [Const Composite Bowman] promotion",
-        "[Crossbowman] units gain the [Const Crossbowman] promotion",
-        "[Gatling Gun] units gain the [Const Gatling Gun] promotion",
-        "[Machine Gun] units gain the [Const Machine Gun] promotion",
-        "[Spearman] units gain the [Const Spearman] promotion",
-        "[Pikeman] units gain the [Const Pikeman] promotion",
-        "[Lancer] units gain the [Const Lancer] promotion",
-        "[Anti-Tank Gun] units gain the [Const Anti-Tank Gun] promotion",
-        "[Gunship] units gain the [Const Gunship] promotion",
+        //Main generated with algorithm
     ]
 }
