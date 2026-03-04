@@ -2,13 +2,13 @@
     {
 		"name": "Daily Consumption",
  		"uniques": ["Consumes [1] [Goods]",
-			"May capture killed [Enemy] units <with [2]% chance>",
 			"[+25]% Strength decreasing with distance from the capital",
 			"Can only heal by pillaging <when number of [Manpower] is less than [0]>",
 			"[-33]% Strength <when number of [Total Death] is more than [Manpower]>",
 			"[+5] HP when healing <when number of [War Support] is more than [1000/[Manpower]]>",
 			"[+5] HP when healing <when number of [War Support] is more than [10000/[Manpower]]>",
-			"Unit will heal every turn, even if it performs an action <when number of [War Support] is more than [10000/[Manpower]]> <in [Friendly] tiles>"
+			"Unit will heal every turn, even if it performs an action <when number of [War Support] is more than [10000/[Manpower]]> <in [Friendly] tiles>",
+			"May capture killed [Wounded] units <with [2]% chance>",
 			
 		]
 	},
