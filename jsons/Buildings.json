@@ -115,9 +115,9 @@
         "requiredTech":"Rifling",
 		"cost":100,
         "uniques":[
-			//"Comment [This building takes 4 turns to be constructed in any city.]",
-			//"[400]% production cost <for every [Production]> <hidden from users>",
+			"War plant",
 			"Cannot be purchased",
+			"[-1]% Production when constructing [Expand Rifle Factory] buildings [in this city] <for every [100*(1-25/[Production])]>",
 			"Instantly provides [1] [Rifle Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Rifle Factory] [in this city]"
