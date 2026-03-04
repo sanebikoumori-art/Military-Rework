@@ -46,7 +46,7 @@
         "name":"Change Mobilization Level",
         "cost":1,
         "uniques":[
-            "Consumes [50] [Commands]","Instantly consumes [50] [Commands]<hidden from users>",
+            "Consumes [50] [Commands]","Instantly consumes [50] [Commands] <hidden from users>",
             "Remove [Change Mobilization Level] [in this city] <hidden from users>",
             "Triggers a [Mobilization] event"
         ]
@@ -60,7 +60,7 @@
 			"Only available <when number of [Commands] is more than [49]>",
 			"Instantly provides [10] [War Support]",
 			"Instantly consumes [50] [Commands]",
-            "Remove [Propaganda News] [in this city] <for every [5] [turns]>"
+            "Remove [Propaganda News] [in this city]"
         ]
     },
 	{
@@ -68,29 +68,35 @@
         "cost":1,
         "uniques":[
 			"Unsellable",
+			"[+25]% weight to this choice for AI decisions <when number of [War Support] is less than [20]> <when not at war>",
+			"[+75]% weight to this choice for AI decisions <when number of [War Support] is less than [40]> <when at war>",
 			"Only available <if [Bloadcast Tower] is constructed> <when number of [Commands] is more than [99]>",
 			"Instantly provides [20] [War Support]",
 			"Instantly consumes [100] [Commands]",
-            "Remove [Propaganda Broadcasts] [in this city] <for every [5] [turns]>"
+            "Remove [Propaganda Broadcasts] [in this city]"
         ]
     },
 	{
         "name":"Recruiting Campaign",
         "cost":30,
         "uniques":[
+			"Cost increases by [35] when built",
 			"Unsellable",
-			"Provides [1] [Manpower] <for every [[Food]/10+[War Support]/10]>",
+			"Provides [1] [Manpower] <for every [[Food]/10+[War Support]/10]> <for [25] turns>",
 			"Only available <when number of [Commands] is more than [9]>",
 			"Instantly consumes [10] [Commands]",
-            "Remove [Recruiting Campaign] [in this city] <after [25] turns>"
+            "Remove [Recruiting Campaign] [in this city]"
         ]
     },
 	{
         "name":"Conscription for 10 turns",
         "cost":100,
         "uniques":[
+			"[-1] population [in this city]",
+			"[+25]% weight to this choice for AI decisions <when number of [Manpower] is less than [10]>",
+			"[+100]% weight to this choice for AI decisions <when number of [Manpower] is less than [0]>",
 			"Unsellable",
-			"Provides [1] [Manpower] <for [10] turns> <for every [Food]>",
+			"Provides [1] [Manpower] <for every [Food]> <for [10] turns>",
 			"Only available <when number of [Commands] is more than [14]>",
 			"Instantly consumes [15] [Commands]",
             "Remove [Conscription for 10 turns] [in this city]"
@@ -100,11 +106,12 @@
         "name":"Conscription for 20 turns",
         "cost":200,
         "uniques":[
+			"[-1] population [in this city]",
 			"Unsellable",
-			"Provides [1] [Manpower] <for every [Food]>",
+			"Provides [1] [Manpower] <for every [Food]> <for [20] turns>",
 			"Only available <when number of [Commands] is more than [29]>",
 			"Instantly consumes [30] [Commands]",
-            "Remove [Conscription for 20 turns] [in this city] <after turn number [20]>"
+            "Remove [Conscription for 20 turns] [in this city]"
         ]
     },
 	//Factories
