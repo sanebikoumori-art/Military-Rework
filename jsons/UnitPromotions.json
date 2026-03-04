@@ -446,11 +446,15 @@
 },
 {
 "name":"Consumption on Action Machine Gun",
-"uniques":["Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [3] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-25]% Strength <when number of [Infantry Equipment] is less than [0]>","Instantly consumes [8] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-75]% Strength <when number of [Machine Gun] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [1500] [Bullet] <when attacking>","Instantly consumes [750] [Bullet] <when defending>",
+	"Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [3] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-25]% Strength <when number of [Infantry Equipment] is less than [0]>","Instantly consumes [8] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-75]% Strength <when number of [Machine Gun] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Mechanized Infantry",
-"uniques":["Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-25]% Strength <when number of [Infantry Equipment] is less than [0]>","Instantly consumes [2] [Armored Car] <upon losing at least [5] HP in a single attack>","[-8]% Strength <when number of [Armored Car] is less than [0]>","Instantly consumes [2] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-8]% Strength <when number of [Machine Gun] is less than [0]>","Instantly consumes [12] [Gun] <upon losing at least [5] HP in a single attack>","[-60]% Strength <when number of [Gun] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [900] [Bullet] <when attacking>","Instantly consumes [450] [Bullet] <when defending>",
+	"Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-25]% Strength <when number of [Infantry Equipment] is less than [0]>","Instantly consumes [2] [Armored Car] <upon losing at least [5] HP in a single attack>","[-8]% Strength <when number of [Armored Car] is less than [0]>","Instantly consumes [2] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-8]% Strength <when number of [Machine Gun] is less than [0]>","Instantly consumes [12] [Gun] <upon losing at least [5] HP in a single attack>","[-60]% Strength <when number of [Gun] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Catapult",
@@ -462,15 +466,21 @@
 },
 {
 "name":"Consumption on Action Cannon",
-"uniques":["Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [3] [Cannon] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Cannon] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Ball Bullet(Large)] is less than [1]>",
+	"Instantly consumes [13] [Ball Bullet(Large)] <when attacking>","Instantly consumes [7] [Ball Bullet(Large)] <when defending>",
+	"Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [3] [Cannon] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Cannon] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Artillery",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [5] [Artillery] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Artillery] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet(Large)] is less than [1]>",
+	"Instantly consumes [50] [Bullet(Large)] <when attacking>","Instantly consumes [25] [Bullet(Large)] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [5] [Artillery] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Artillery] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Rocket Artillery",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [3] [Rocket Artillery] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Rocket Artillery] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Missile] is less than [1]>",
+	"Instantly consumes [25] [Missile] <when attacking>","Instantly consumes [13] [Missile] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [3] [Rocket Artillery] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Rocket Artillery] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Horseman",
@@ -478,7 +488,9 @@
 },
 {
 "name":"Consumption on Action Chariot Archer",
-"uniques":["Instantly provides [40] [Total Death] <upon being defeated>","Instantly consumes [4] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Arrow] is less than [1]>",
+	"Instantly consumes [40] [Arrow] <when attacking>","Instantly consumes [20] [Arrow] <when defending>",
+	"Instantly provides [40] [Total Death] <upon being defeated>","Instantly consumes [4] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Knight",
@@ -486,19 +498,34 @@
 },
 {
 "name":"Consumption on Action Cavalry",
-"uniques":["Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [8] [Rifle] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Rifle] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [75] [Bullet] <when attacking>","Instantly consumes [33] [Bullet] <when defending>",
+	"Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [8] [Rifle] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Rifle] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Landship",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [1] [Tank] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Tank] is less than [0]>"]
+"uniques":[
+	"Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [100] [Bullet] <when attacking>","Instantly consumes [50] [Bullet] <when defending>",
+	"Cannot attack <when number of [Bullet(Large)] is less than [1]>",
+	"Instantly consumes [10] [Bullet(Large)] <when attacking>","Instantly consumes [5] [Bullet(Large)] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [1] [Tank] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Tank] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Tank",
-"uniques":["Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [3] [Tank] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Tank] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [500] [Bullet] <when attacking>","Instantly consumes [250] [Bullet] <when defending>",
+	"Cannot attack <when number of [Bullet(Large)] is less than [1]>",
+	"Instantly consumes [25] [Bullet(Large)] <when attacking>","Instantly consumes [13] [Bullet(Large)] <when defending>",
+	"Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [3] [Tank] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Tank] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Modern Armor",
-"uniques":["Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [5] [Tank] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Tank] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [2000] [Bullet] <when attacking>","Instantly consumes [1000] [Bullet] <when defending>",
+	"Cannot attack <when number of [Bullet(Large)] is less than [1]>",
+	"Instantly consumes [50] [Bullet(Large)] <when attacking>","Instantly consumes [25] [Bullet(Large)] <when defending>",
+	"Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [5] [Tank] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Tank] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Giant Death Robot",
