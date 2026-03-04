@@ -1,6 +1,7 @@
 {
     "name": "Global Uniques",
     "uniques": [
+        "Gain a free [Military Rework] [in all cities]",
         "Triggers a [Local News:War1] event",
         //Total Death
         "Instantly consumes [1] [Total Death] <for every [Total Death]> <when not at war>",
