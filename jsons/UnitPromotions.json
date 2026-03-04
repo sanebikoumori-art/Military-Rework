@@ -374,19 +374,27 @@
 },
 {
 "name":"Consumption on Action Musketman",
-"uniques":["Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [8] [Musket] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Musket] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Ball Bullet] is less than [1]>",
+	"Instantly consumes [75] [Ball Bullet] <when attacking>","Instantly consumes [33] [Ball Bullet] <when defending>",
+	"Instantly provides [75] [Total Death] <upon being defeated>","Instantly consumes [8] [Musket] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Musket] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Rifleman",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Rifle] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Rifle] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [100] [Bullet] <when attacking>","Instantly consumes [50] [Bullet] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Rifle] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Rifle] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Great War Infantry",
-"uniques":["Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [12] [Rifle] <upon losing at least [5] HP in a single attack>","[-78]% Strength <when number of [Rifle] is less than [0]>","Instantly consumes [1] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-7]% Strength <when number of [Machine Gun] is less than [0]>","Instantly consumes [3] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-17]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [340] [Bullet] <when attacking>","Instantly consumes [170] [Bullet] <when defending>",
+	"Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [12] [Rifle] <upon losing at least [5] HP in a single attack>","[-78]% Strength <when number of [Rifle] is less than [0]>","Instantly consumes [1] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-7]% Strength <when number of [Machine Gun] is less than [0]>","Instantly consumes [3] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-17]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Infantry",
-"uniques":["Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [15] [Gun] <upon losing at least [5] HP in a single attack>","[-75]% Strength <when number of [Gun] is less than [0]>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-25]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [750] [Bullet] <when attacking>","Instantly consumes [325] [Bullet] <when defending>",
+	"Instantly provides [150] [Total Death] <upon being defeated>","Instantly consumes [15] [Gun] <upon losing at least [5] HP in a single attack>","[-75]% Strength <when number of [Gun] is less than [0]>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-25]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Spearman",
@@ -402,27 +410,39 @@
 },
 {
 "name":"Consumption on Action Anti-Tank Gun",
-"uniques":["Instantly provides [40] [Total Death] <upon being defeated>","Instantly consumes [1] [Artillery] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Artillery] is less than [0]>","Instantly consumes [1] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Infantry Equipment] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet(Large)] is less than [1]>",
+	"Instantly consumes [10] [Bullet(Large)] <when attacking>","Instantly consumes [5] [Bullet(Large)] <when defending>",
+	"Instantly provides [40] [Total Death] <upon being defeated>","Instantly consumes [1] [Artillery] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Artillery] is less than [0]>","Instantly consumes [1] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-50]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Gunship",
-"uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [5] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Machine Gun] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [1000] [Bullet] <when attacking>","Instantly consumes [500] [Bullet] <when defending>",
+	"Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [5] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Machine Gun] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Archer",
-"uniques":["Instantly provides [10] [Total Death] <upon being defeated>","Instantly consumes [1] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Arrow] is less than [1]>",
+	"Instantly consumes [10] [Arrow] <when attacking>","Instantly consumes [5] [Arrow] <when defending>",
+	"Instantly provides [10] [Total Death] <upon being defeated>","Instantly consumes [1] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Composite Bowman",
-"uniques":["Instantly provides [25] [Total Death] <upon being defeated>","Instantly consumes [3] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Arrow] is less than [1]>",
+	"Instantly consumes [25] [Arrow] <when attacking>","Instantly consumes [13] [Arrow] <when defending>",
+	"Instantly provides [25] [Total Death] <upon being defeated>","Instantly consumes [3] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Crossbowman",
-"uniques":["Instantly provides [50] [Total Death] <upon being defeated>","Instantly consumes [5] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Arrow] is less than [1]>",
+	"Instantly consumes [75] [Arrow] <when attacking>","Instantly consumes [33] [Arrow] <when defending>",
+	"Instantly provides [50] [Total Death] <upon being defeated>","Instantly consumes [5] [Bow] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Bow] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Gatling Gun",
-"uniques":["Instantly provides [10] [Total Death] <upon being defeated>","Instantly consumes [1] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Machine Gun] is less than [0]>"]
+"uniques":["Cannot attack <when number of [Bullet] is less than [1]>",
+	"Instantly consumes [100] [Bullet] <when attacking>","Instantly consumes [50] [Bullet] <when defending>",
+	"Instantly provides [10] [Total Death] <upon being defeated>","Instantly consumes [1] [Machine Gun] <upon losing at least [5] HP in a single attack>","[-100]% Strength <when number of [Machine Gun] is less than [0]>"]
 },
 {
 "name":"Consumption on Action Machine Gun",
@@ -524,5 +544,4 @@
 "name":"Consumption on Action Mobile SAM",
 "uniques":["Instantly provides [100] [Total Death] <upon being defeated>","Instantly consumes [10] [Mobile SAM] <upon losing at least [5] HP in a single attack>","[-67]% Strength <when number of [Mobile SAM] is less than [0]>","Instantly consumes [5] [Infantry Equipment] <upon losing at least [5] HP in a single attack>","[-34]% Strength <when number of [Infantry Equipment] is less than [0]>"]
 },
-
 ]
