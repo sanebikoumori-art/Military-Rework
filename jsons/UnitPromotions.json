@@ -10,7 +10,9 @@
 			"[+5] HP when healing <when number of [War Support] is more than [10000/[Manpower]]>",
 			"Unit will heal every turn, even if it performs an action <when number of [War Support] is more than [10000/[Manpower]]> <in [Friendly] tiles>",
 			"May capture killed [Wounded] units <with [2]% chance>",
-			
+			"Triggers a [Local News:War1] event <when number of [Total Death] is more than [99]> <when number of [EventKey War1] is less than [1]> <upon being defeated> <hidden from users>",
+			"Triggers a [Local News:War2] event <when number of [Total Death] is more than [499]> <when number of [EventKey War2] is less than [1]> <upon being defeated> <hidden from users>",
+			"Triggers a [World News:War3] event <when number of [Total Death] is more than [999]> <when number of [EventKey War3] is less than [1]> <upon being defeated> <hidden from users>",
 		]
 	},
     //initializer
