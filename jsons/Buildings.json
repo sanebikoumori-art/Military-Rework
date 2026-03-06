@@ -172,12 +172,12 @@
 	{
         "name":"Expand Crossbow Workshop",
         "requiredTech":"Machinery",
-		"cost":50,
+		"cost":100,
 		"requiredBuilding":"Workshop",
 		"uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [50] when built",
 			"Instantly provides [1] [Crossbow Produce] <for every [4] [Production]>",
 			"Unsellable",
             "Remove [Expand Crossbow Workshop] [in this city]"
@@ -186,12 +186,12 @@
 	{
         "name":"Expand Machine Gun Factory",
         "requiredTech":"Industrialization",
-		"cost":50,
+		"cost":100,
 		"requiredBuilding":"Factory",
 		"uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [50] when built",
 			"Instantly provides [1] [Machine Gun Produce] <for every [12] [Production]>",
 			"Unsellable",
             "Remove [Expand Machine Gun Factory] [in this city]"
@@ -228,12 +228,12 @@
 	{
         "name":"Expand Cannon Workshop",
         "requiredTech":"Chemistry",
-		"cost":50,
+		"cost":100,
 		"requiredBuilding":"Workshop",
 		"uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [50] when built",
 			"Instantly provides [1] [Cannon Produce] <for every [25] [Production]>",
 			"Unsellable",
             "Remove [Expand Cannon Workshop] [in this city]"
@@ -242,12 +242,12 @@
 	{
         "name":"Expand Artillery Factory",
         "requiredTech":"Dynamite",
-		"cost":50,
+		"cost":200,
 		"requiredBuilding":"Factory",
 		"uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [100] when built",
 			"Instantly provides [1] [Artillery Produce] <for every [35] [Production]>",
 			"Unsellable",
             "Remove [Expand Artillery Factory] [in this city]"
@@ -256,12 +256,12 @@
 	{
         "name":"Expand Rocket Artillery Factory",
         "requiredTech":"Rocketry",
-		"cost":50,
+		"cost":200,
 		"requiredBuilding":"Factory",
 		"uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [100] when built",
 			"Instantly provides [1] [Rocket Artillery Produce] <for every [40] [Production]>",
 			"Unsellable",
             "Remove [Expand Rocket Artillery Factory] [in this city]"
@@ -412,13 +412,13 @@
         "name":"Expand Ball Bullet Workshop",
         "requiredTech":"Gunpowder",
 		"requiredBuilding":"Workshop",
-		"cost":50,
+		"cost":100,
         "uniques":[
 			"War plant",
 			"Only available <before discovering [Rifling]>",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
-			"Instantly provides [1] [Ball Bullet Produce] <for every [1] [Production]>",
+			"Cost increases by [50] when built",
+			"Instantly provides [1] [Ball Bullet Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet Workshop] [in this city]"
         ]
@@ -427,12 +427,12 @@
         "name":"Expand Ball Bullet(Large) Workshop",
         "requiredTech":"Gunpowder",
 		"requiredBuilding":"Workshop",
-		"cost":50,
+		"cost":100,
         "uniques":[
 			"War plant",
 			"Only available <before discovering [Dynamite]>",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [50] when built",
 			"Instantly provides [1] [Ball Bullet(Large) Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
