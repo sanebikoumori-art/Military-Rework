@@ -10,3 +10,73 @@ ResourceIcons/Artillery
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Bow
+  rotate: false
+  xy: 1932, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bowman
+  rotate: false
+  xy: 644, 1534
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/War Support
+  rotate: false
+  xy: 946, 1068
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Commands
+  rotate: false
+  xy: 1162, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Goods
+  rotate: false
+  xy: 1918, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Military Research
+  rotate: false
+  xy: 514, 238
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Machine Gun
+  rotate: false
+  xy: 622, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Giant Death Robot
+  rotate: false
+  xy: 730, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Gun
+  rotate: false
+  xy: 946, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResouceIcons/Jet Fighter
+  rotate: false
+  xy: 1172, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
