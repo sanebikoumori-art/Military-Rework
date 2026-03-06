@@ -256,4 +256,18 @@
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
         ]
     },
+	{
+        "name":"Expand Missile Factory",
+        "requiredTech":"Rocketry",
+		"requiredBuilding":"Factory",
+		"cost":50,
+        "uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Missile Produce] <for every [33] [Production]>",
+			"Unsellable",
+            "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
+        ]
+    },
 ]
