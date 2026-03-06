@@ -305,7 +305,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"Instantly provides [1] [Spear Produce] <for every [2] [Production]>",
+			"Instantly provides [1] [Spear Produce] <for every [4] [Production]>",
 			"Unsellable",
             "Remove [Expand Spear Production] [in this city]"
         ]
@@ -318,7 +318,7 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"Instantly provides [1] [Sword Produce] <for every [3] [Production]>",
+			"Instantly provides [1] [Sword Produce] <for every [6] [Production]>",
 			"Unsellable",
             "Remove [Expand Blacksmith] [in this city]"
         ]
@@ -326,13 +326,13 @@
 	{
         "name":"Expand Musket Workshop",
         "requiredTech":"Gunpowder",
-		"cost":50,
+		"cost":100,
 		"requiredBuilding":"Workshop",
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
-			"Instantly provides [1] [Musket Produce] <for every [2] [Production]>",
+			"Cost increases by [50] when built",
+			"Instantly provides [1] [Musket Produce] <for every [8] [Production]>",
 			"Unsellable",
             "Remove [Expand Musket Workshop] [in this city]"
         ]
@@ -340,13 +340,13 @@
 	{
         "name":"Expand Rifle Factory",
         "requiredTech":"Rifling",
-		"cost":50,
+		"cost":200,
 		"requiredBuilding":"Factory",
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
-			"Instantly provides [1] [Rifle Produce] <for every [2] [Production]>",
+			"Cost increases by [100] when built",
+			"Instantly provides [1] [Rifle Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Rifle Factory] [in this city]"
         ]
@@ -355,12 +355,12 @@
         "name":"Expand Gun Factory",
         "requiredTech":"Rifling",
 		"requiredBuilding":"Factory",
-		"cost":50,
+		"cost":200,
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
-			"Instantly provides [1] [Gun Produce] <for every [3] [Production]>",
+			"Cost increases by [100] when built",
+			"Instantly provides [1] [Gun Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Gun Factory] [in this city]"
         ]
@@ -384,12 +384,12 @@
         "name":"Expand Bullet Factory",
         "requiredTech":"Metallurgy",
 		"requiredBuilding":"Factory",
-		"cost":50,
+		"cost":200,
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
-			"Instantly provides [1] [Bullet Produce] <for every [1] [Production]>",
+			"Cost increases by [100] when built",
+			"Instantly provides [1] [Bullet Produce] <for every [2] [Production]>",
 			"Unsellable",
             "Remove [Expand Bullet Factory] [in this city]"
         ]
@@ -398,12 +398,12 @@
         "name":"Expand Bullet(Large) Factory",
         "requiredTech":"Metallurgy",
 		"requiredBuilding":"Factory",
-		"cost":50,
+		"cost":200,
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
-			"Instantly provides [1] [Bullet(Large) Produce] <for every [5] [Production]>",
+			"Cost increases by [100] when built",
+			"Instantly provides [1] [Bullet(Large) Produce] <for every [15] [Production]>",
 			"Unsellable",
             "Remove [Expand Bullet(Large) Factory] [in this city]"
         ]
@@ -433,7 +433,7 @@
 			"Only available <before discovering [Dynamite]>",
 			"Cannot be purchased",
 			"Cost increases by [25] when built",
-			"Instantly provides [1] [Ball Bullet(Large) Produce] <for every [4] [Production]>",
+			"Instantly provides [1] [Ball Bullet(Large) Produce] <for every [10] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
         ]
@@ -442,11 +442,11 @@
         "name":"Expand Missile Factory",
         "requiredTech":"Rocketry",
 		"requiredBuilding":"Factory",
-		"cost":50,
+		"cost":200,
         "uniques":[
 			"War plant",
 			"Cannot be purchased",
-			"Cost increases by [25] when built",
+			"Cost increases by [100] when built",
 			"Instantly provides [1] [Missile Produce] <for every [33] [Production]>",
 			"Unsellable",
             "Remove [Expand Ball Bullet(Large) Workshop] [in this city]"
