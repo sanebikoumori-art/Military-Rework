@@ -5,7 +5,18 @@
         "uniques":[
 			"Unbuildable",
 			"Unsellable",
-			"Provides [1] [Goods] <for every [Production]>",
+			"Provides [1] [Goods]",
+			"Provides [1] [Goods] <for every [10] [Production]> <when number of [Bool Mobilization1] is equal to [1]>",
+			"Provides [1] [Goods] <for every [5] [Production]> <when number of [Bool Mobilization2] is equal to [1]>",
+			"Provides [1] [Goods] <for every [3] [Production]> <when number of [Bool Mobilization3] is equal to [1]>",
+			"Provides [1] [Goods] <for every [1] [Production]> <when number of [Bool Mobilization4] is equal to [1]>",
+			"[-5]% [Production] [in this city] <when number of [Bool Mobilization2] is equal to [1]>",
+			"[-10]% [Production] [in this city] <when number of [Bool Mobilization3] is equal to [1]>",
+			"[-20]% [Production] [in this city] <when number of [Bool Mobilization4] is equal to [1]>",
+
+			"[+10]% Production when constructing [War plant] buildings [in this city] <when number of [Bool Mobilization2] is equal to [1]>",
+			"[+20]% Production when constructing [War plant] buildings [in this city] <when number of [Bool Mobilization3] is equal to [1]>",
+			"[+40]% Production when constructing [War plant] buildings [in this city] <when number of [Bool Mobilization4] is equal to [1]>",
             "Will not be displayed in Civilopedia"
         ]
     },
