@@ -97,7 +97,7 @@
 			},
 			{
 				"text": "Conscription should be made a national obligation. We don't want unpatriotic soldiers.",
-				"uniques":["Comment [Unlock Conscription]","Set [War Support] to [100]","Instantly provides [140] [Commands]","Instantly consumes [500] [Manpower]","[Musketman] [3]s rebel <with [50]% chance>"]
+				"uniques":["Comment [Unlock Conscription]","Set [War Support] to [100]","Instantly provides [140] [Commands]","Instantly consumes [500] [Manpower]","[3] [Musketman]s rebel <with [50]% chance>"]
 			}
         ]
     },
