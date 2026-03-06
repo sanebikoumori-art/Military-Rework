@@ -80,3 +80,122 @@ ResouceIcons/Jet Fighter
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Tank
+  rotate: false
+  xy: 1928, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Armored Car
+  rotate: false
+  xy: 1508, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mobile SAM
+  rotate: false
+  xy: 1508, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Musket
+  rotate: false
+  xy: 1940, 1721
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+ResourceIcons/Missile
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Spear
+  rotate: false
+  xy: 1162, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rifle
+  rotate: false
+  xy: 1378, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rocket Artillery
+  rotate: false
+  xy: 1594, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Stealth Bomber
+  rotate: false
+  xy: 1702, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sword
+  rotate: false
+  xy: 1486, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Trebuchet
+  rotate: false
+  xy: 1810, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Triplane
+  rotate: false
+  xy: 1270, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Trireme
+  rotate: false
+  xy: 1162, 99
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+ResourceIcons/Arrow
+  rotate: false
+  xy: 1162, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Manpower
+  rotate: false
+  xy: 298, 432
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Total Death
+  rotate: false
+  xy: 514, 1318
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bullet
+  rotate: false
+  xy: 112, 28
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
