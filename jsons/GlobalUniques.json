@@ -34,6 +34,10 @@
         "Provides [1] [Ball Bullet(Large)] <for every [Ball Bullet(Large) Produce]>",
         "Provides [1] [Bullet] <for every [Bullet Produce]>",
         "Provides [1] [Bullet(Large)] <for every [Bullet(Large) Produce]>",
-        "Provides [1] [Missile] <for every [Missile Produce]>"
+        "Provides [1] [Missile] <for every [Missile Produce]>",
+        //Event Triggers
+        "Triggers a [Local News:War Decleared] event <upon being declared war on by [Known] Civilizations>",
+        "Triggers a [Local News:War Began] event <upon declaring war on [Hostile] Civilizations>",
+        "Triggers a [Local News:War Began but why] event <upon declaring war on [non-[Hostile]] Civilizations>",
     ]
 }
