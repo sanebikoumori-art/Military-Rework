@@ -157,6 +157,147 @@
     },
 	//Factories
 	{
+        "name":"Expand Bow Production",
+        "requiredTech":"Archery",
+		"cost":50,
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Bow Produce] <for every [3] [Production]>",
+			"Unsellable",
+            "Remove [Expand Bow Production] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Crossbow Workshop",
+        "requiredTech":"Machinery",
+		"cost":50,
+		"requiredBuilding":"Workshop",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Crossbow Produce] <for every [4] [Production]>",
+			"Unsellable",
+            "Remove [Expand Crossbow Workshop] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Machine Gun Factory",
+        "requiredTech":"Industrialization",
+		"cost":50,
+		"requiredBuilding":"Factory",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Machine Gun Produce] <for every [12] [Production]>",
+			"Unsellable",
+            "Remove [Expand Machine Gun Factory] [in this city]"
+        ]
+    },
+	//siege weapons
+	{
+        "name":"Expand Catapult Production",
+        "requiredTech":"Mathematics",
+		"cost":50,
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Catapult Produce] <for every [10] [Production]>",
+			"Unsellable",
+            "Remove [Expand Catapult Production] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Trebuchet Workshop",
+        "requiredTech":"Physics",
+		"cost":50,
+		"requiredBuilding":"Workshop",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Trebuchet Produce] <for every [40] [Production]>",
+			"Unsellable",
+            "Remove [Expand Trebuchet Workshop] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Cannon Workshop",
+        "requiredTech":"Chemistry",
+		"cost":50,
+		"requiredBuilding":"Workshop",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Cannon Produce] <for every [25] [Production]>",
+			"Unsellable",
+            "Remove [Expand Cannon Workshop] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Artillery Factory",
+        "requiredTech":"Dynamite",
+		"cost":50,
+		"requiredBuilding":"Factory",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Artillery Produce] <for every [35] [Production]>",
+			"Unsellable",
+            "Remove [Expand Artillery Factory] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Rocket Artillery Factory",
+        "requiredTech":"Rocketry",
+		"cost":50,
+		"requiredBuilding":"Factory",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [25] when built",
+			"Instantly provides [1] [Rocket Artillery Produce] <for every [40] [Production]>",
+			"Unsellable",
+            "Remove [Expand Rocket Artillery Factory] [in this city]"
+        ]
+    },
+	//Armored
+	{
+        "name":"Expand Tank Factory",
+        "requiredTech":"Combustion",
+		"cost":200,
+		"requiredBuilding":"Factory",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [100] when built",
+			"Instantly provides [1] [Tank Produce] <for every [80] [Production]>",
+			"Unsellable",
+            "Remove [Expand Tank Factory] [in this city]"
+        ]
+    },
+	{
+        "name":"Expand Armored Car Factory",
+        "requiredTech":"Mobile Tactics",
+		"cost":200,
+		"requiredBuilding":"Factory",
+		"uniques":[
+			"War plant",
+			"Cannot be purchased",
+			"Cost increases by [100] when built",
+			"Instantly provides [1] [Armored Car Produce] <for every [50] [Production]>",
+			"Unsellable",
+            "Remove [Expand Armored Car Factory] [in this city]"
+        ]
+    },
+	//spears
+	{
         "name":"Expand Spear Production",
         "requiredTech":"Bronze Working",
 		"cost":50,
