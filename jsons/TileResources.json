@@ -624,5 +624,46 @@
 			"Not shown on world screen",
 			"City-level resource"
 		]
+	},
+	//Bool
+	{
+		"name": "Bool Mobilization1",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+		]
+	},
+	{
+		"name": "Bool Mobilization2",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+		]
+	},
+	{
+		"name": "Bool Mobilization3",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+		]
+	},
+	{
+		"name": "Bool Mobilization4",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+		]
 	}
 ]
