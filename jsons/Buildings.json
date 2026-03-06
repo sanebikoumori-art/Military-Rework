@@ -91,12 +91,11 @@
         "name":"Recruiting Campaign",
         "cost":30,
         "uniques":[
-			"Cost increases by [35] when built",
+			"Comment [This is permanent]",
 			"Unsellable",
-			"Provides [1] [Manpower] <for every [[Food]/10+[War Support]/10]> <for [25] turns>",
+			"Provides [1] [Manpower] <for every [[Food]/10+[War Support]/10]>",
 			"Only available <when number of [Commands] is more than [9]>",
-			"Instantly consumes [10] [Commands]",
-            "Remove [Recruiting Campaign] [in this city]"
+			"Instantly consumes [10] [Commands]"
         ]
     },
 	{
