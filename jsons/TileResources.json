@@ -613,4 +613,16 @@
 			"Not shown on world screen",
         ]
 	},
+	//timers
+	{
+		"name": "Conscription Timer",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
+			"City-level resource"
+		]
+	}
 ]
