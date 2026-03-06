@@ -89,29 +89,18 @@
         ]
     },
 	{
-        "name":"Conscription for 10 turns",
+        "name":"Conscription",
         "cost":100,
         "uniques":[
 			"[-1] population [in this city]",
 			"[+25]% weight to this choice for AI decisions <when number of [Manpower] is less than [10]>",
 			"[+100]% weight to this choice for AI decisions <when number of [Manpower] is less than [0]>",
-			"Unsellable",
-			"Provides [1] [Manpower] <for every [Food]> <for [10] turns>",
-			"Only available <when number of [Commands] is more than [14]>",
+			"Unsellable <hidden from users>",
+			"Provides [1] [Manpower] <for every [Food]>",
+			"Only available <when number of [Commands] is more than [14]> <hidden from users>",
 			"Instantly consumes [15] [Commands]",
-            "Remove [Conscription for 10 turns] [in this city]"
-        ]
-    },
-	{
-        "name":"Conscription for 20 turns",
-        "cost":200,
-        "uniques":[
-			"[-1] population [in this city]",
-			"Unsellable",
-			"Provides [1] [Manpower] <for every [Food]> <for [20] turns>",
-			"Only available <when number of [Commands] is more than [29]>",
-			"Instantly consumes [30] [Commands]",
-            "Remove [Conscription for 20 turns] [in this city]"
+			"Comment [This has a 10% chance of end each turn.]",
+            "Remove [Conscription] [in this city] <upon turn start> <with [10]% chance> <hidden from users>"
         ]
     },
 	//Factories
