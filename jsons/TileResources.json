@@ -331,7 +331,7 @@
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
 			"Not shown on world screen <before discovering [Bronze Working]>",
-			"Not shown on world screen <after discovering [Civil Service]>"
+			"Not shown on world screen <after discovering [Combustion]>"
         ]
     },
     {
@@ -371,7 +371,7 @@
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
 			"Not shown on world screen <before discovering [Rifling]>",
-			"Not shown on world screen <after discovering [Ballistics]>"
+			"Not shown on world screen <after discovering [Plastics]>"
         ]
     },
 	{
@@ -389,7 +389,7 @@
 		"uniques": [
 			"Stockpiled <hidden from users>",
 			"Excluded from map editor",
-			"Not shown on world screen <before discovering [Ballistics]>",
+			"Not shown on world screen <before discovering [Plastics]>",
         ]
     },
 	{
