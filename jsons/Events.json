@@ -108,7 +108,7 @@
 			},
 			{
 				"text": "Gradually recruit a citizen army.",
-				"uniques":["Comment [Unlock Conscription]","Set [Bool Military Reform] to [1] <hidden from users>"]
+				"uniques":["Comment [Unlock Conscription]","Set [Bool Military Reform] to [1] <hidden from users>","[+50]% weight to this choice for AI decisions"]
 			},
 			{
 				"text": "Conscription should be made a national obligation. We don't want unpatriotic soldiers.",
@@ -124,19 +124,19 @@
         "choices": [
 			{
 				"text": "Civil Economy",
-				"uniques":["Comment [Goods for military are produced at a minimum level]","Set [Bool Mobilization1] to [1] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>"]
+				"uniques":["Comment [Goods for military are produced at a minimum level]","Set [Bool Mobilization1] to [1] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>","[+25]% weight to this choice for AI decisions <when not at war> <when number of [Goods] is more than [1000]>"]
 			},
 			{
 				"text": "Early Mobilization",
-				"uniques":["Comment [5% of production will used to produce Goods (1:5 rate). +10% Production while building War plants]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [1] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>"]
+				"uniques":["Comment [5% of production will used to produce Goods (1:5 rate). +10% Production while building War plants]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [1] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>","[+25]% weight to this choice for AI decisions <when not at war> <when number of [Goods] is less than [1000]>"]
 			},
 			{
 				"text": "War Economy",
-				"uniques":["Comment [10% of production will used to produce Goods (1:5 rate). +20% Production while building War plants]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [1] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>"]
+				"uniques":["Comment [10% of production will used to produce Goods (1:5 rate). +20% Production while building War plants]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [1] <hidden from users>","Set [Bool Mobilization4] to [0] <hidden from users>","[+25]% weight to this choice for AI decisions <when at war> <when number of [Goods] is more than [1000]>"]
 			},
 			{
 				"text": "Full Mobilization",
-				"uniques":["Comment [20% of production will used to produce Goods (1:5 rate). +40% Production while building War plants]","Triggers the following global alert: [National Mobilization Law adopted]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [1] <hidden from users>"]
+				"uniques":["Comment [20% of production will used to produce Goods (1:5 rate). +40% Production while building War plants]","Triggers the following global alert: [National Mobilization Law adopted]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [1] <hidden from users>","[+25]% weight to this choice for AI decisions <when at war> <when number of [Goods] is less than [1000]>"]
 			}
         ]
     }
