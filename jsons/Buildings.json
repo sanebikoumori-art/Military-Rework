@@ -454,13 +454,12 @@
 			"War plant",
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
-			"[+5] [Production] <for [AI player] Civilizations> <hidden from users>",
 			"Provides [10] [Bullet] <for [AI player] Civilizations> <hidden from users>",
 			"[+133]% weight to this choice for AI decisions <when number of [Bullet] is less than [100]>",
 			"[-33]% weight to this choice for AI decisions",
 			"Instantly provides [1] [Bullet Produce] <for every [2] [Production]>",
 			"Unsellable",
-            "Remove [Expand Bullet Factory] [in this city]"
+            "Remove [Expand Bullet Factory] [in this city] <for [Human player] Civilizations><hidden from users>"
         ]
     },
 	{
