@@ -42,6 +42,9 @@
         "Triggers a [Local News:War Began] event <upon declaring war on [Major] Civilizations>",
         "Triggers a [Local News:War Began but why] event <upon declaring war on [City-States] Civilizations>",
         "Triggers a [Military Reform] event <upon entering the [Industrial era]>",
-        "Triggers a [Mobilization] event <every [20] turns> <for [AI player] Civilizations>"
+        "Triggers a [Mobilization] event <every [20] turns> <for [AI player] Civilizations>",
+        //News Triggers
+        "Gain a free [News:Nuked1] [in capital] <if [News:Nuked1] is not constructed by anybody> <upon being defeated> <for [Atomic Bomb] units>",
+        "Gain a free [News:Nuked2] [in capital] <if [News:Nuked1] is constructed by anybody> <if [News:Nuked2] is not constructed> <upon turn start>",
     ]
 }
