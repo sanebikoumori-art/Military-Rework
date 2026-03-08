@@ -143,5 +143,25 @@
 				"uniques":["Comment [20% of production will used to produce Goods (1:5 rate). +40% Production while building War plants]","Triggers the following global alert: [National Mobilization Law adopted]","Set [Bool Mobilization1] to [0] <hidden from users>","Set [Bool Mobilization2] to [0] <hidden from users>","Set [Bool Mobilization3] to [0] <hidden from users>","Set [Bool Mobilization4] to [1] <hidden from users>","[+25]% weight to this choice for AI decisions <when at war> <when number of [Goods] is less than [1000]>"]
 			}
         ]
+    },
+	{
+        "name":"World News:Nuked",
+		"civilopediaText":[
+            {"text":"Mass Destructive Weapon Dropped!", "centered":true, "header":2,"color": "#FF0000"},
+            {"extraImage":"nuke", "imageSize":410},
+			{"text":"One day, there was a single dot in the sky. It was a bomber. Then the dot became two. It seems bomb had been dropped.","centered":true},
+			{"text":"But it was not normal bomb. What you had done had caused a genocide that could never be undone.","centered":true},
+			{"text":"People closest to the hypocenter were vaporized, down to their bones,","centered":true},
+			{"text":"while people further away were exposed to the light, their skin and eyes melting.","centered":true},
+			{"text":"It was a scene more terrifying than hell.","centered":true},
+			{"text":"-------------------------------------------------","centered":true},
+			{"text":"The world was shocked by the mass destructive power of this new weapon.","centered":true},
+			{"text":"After that day, humans got a weapon that enough to wipe out its own existence.","centered":true},
+        ],
+        "choices": [
+			{
+				"text": "We must show them what that means."
+			}
+        ]
     }
 ]
