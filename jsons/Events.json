@@ -149,7 +149,8 @@
 		"civilopediaText":[
             {"text":"Mass Destructive Weapon Dropped!", "centered":true, "header":2,"color": "#FF0000"},
             {"extraImage":"nuke", "imageSize":410},
-			{"text":"One day, there was a single dot in the sky. It was a bomber. Then the dot became two. It seems bomb had been dropped.","centered":true},
+			{"text":"One day, there was a single dot in the sky. It was a bomber.","centered":true},
+			{"text":"Then the dot became two. It seems bomb had been dropped.","centered":true},
 			{"text":"But it was not normal bomb. What you had done had caused a genocide that could never be undone.","centered":true},
 			{"text":"People closest to the hypocenter were vaporized, down to their bones,","centered":true},
 			{"text":"while people further away were exposed to the light, their skin and eyes melting.","centered":true},
