@@ -583,7 +583,7 @@
 			"Cannot be purchased",
 			"Cost increases by [100] when built",
 			"Provides [1] [Missile] <for [AI player] Civilizations> <hidden from users>",
-			"[-85]% weight to this choice for AI decisions <when number of [Missile] is less more [1]>",
+			"[-85]% weight to this choice for AI decisions <when number of [Missile] is more than [1]>",
 			"[+250]% weight to this choice for AI decisions <when number of [Missile] is less than [1]>",
 			"Provides [1] [Missile] <for every [33] [Production]>",
 			"Instantly provides [1] [Missile Produce] <for every [33] [Production]><hidden from users>",
