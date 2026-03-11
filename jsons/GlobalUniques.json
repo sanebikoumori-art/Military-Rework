@@ -3,6 +3,7 @@
     "uniques": [
         //for Barbarians
         "Provides [100] [Manpower] <for [Barbarians] Civilizations>",
+        "Provides [100] [Goods] <for [Barbarians] Civilizations>",
         "[+100]% Strength <for [Barbarians] units>",
         "Provides [1000] [Arrow] <for [Barbarians] Civilizations>",
         "Provides [1000] [Ball Bullet] <for [Barbarians] Civilizations>",
